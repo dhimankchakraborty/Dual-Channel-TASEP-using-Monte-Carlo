@@ -8,9 +8,9 @@ from functions import *
 
 
 L = 10
-alpha = 0.3
-beta = 0.6
-w = 0
+alpha = 0.8
+beta = 0.
+w = 1
 initial_filing = 0.1
 mc_step_no = 100
 therm_step_no = mc_step_no
